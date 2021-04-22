@@ -1,6 +1,11 @@
-img {
+.planoDeFundo {
+
+}
+
+.picture {
     border-radius: 50%;
 }
+
 body {
     background-color: #F5F5F5;
 }
