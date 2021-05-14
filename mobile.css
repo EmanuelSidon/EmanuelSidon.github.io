@@ -1,0 +1,20 @@
+#feature {
+    height: 180px;
+}
+
+.murder {
+    flex-direction: column;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.murder:hover {
+    background: #eeeeee46;
+    padding: 6px;
+    transition: .3s;
+}
+
+.photo {
+    min-width: 30%;
+    margin-left: 8vh;
+}
